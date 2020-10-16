@@ -1,0 +1,3 @@
+Ingestion timing data are in the function called "ingestTimesSetup". 
+The variables called "ST1", "temp", and "temp2" hold the numbers given in Tables 1, 2, and 3 in the paper titled, "Development of a Probabilistic Timing Model for the Ingestion of Tap Water," August 2009. Journal of Water Resources Planning and Management 135:397-405. 
+The numbers in this function are then used in the separate function "ingestTimesV2" to generate random starting times for ingestion.
